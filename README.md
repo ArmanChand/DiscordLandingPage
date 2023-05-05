@@ -1,4 +1,4 @@
-DiscordBot using MindsDB Website
+# DiscordBot using MindsDB Website
 
 
 
